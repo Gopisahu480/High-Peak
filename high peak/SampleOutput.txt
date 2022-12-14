@@ -1,0 +1,3 @@
+      Sample Outpu:
+      2
+      400
